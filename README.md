@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 👋 Hello 陌生人 👋
+### 💬这是我的博客[点此进入](https://gnol3.top),平常更新一些学习上的所见所得
 <!--
 **wzlong03/wzlong03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
